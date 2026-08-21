@@ -76,16 +76,6 @@ A virtual simulator created to support university students through a technology 
 **Technologies:** C++ · Unity3D · Web Development · Mobile Development · Figma · Blender
 [Publication](https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/32098/31900)
 
-## Experience / Leadership
-
-### Head of AI for Finance — ESPM Finance
-
-I lead initiatives focused on the practical use of Artificial Intelligence in corporate and financial environments. My activities include student training, AI agent creation and manipulation, technical content preparation and relationship-building with technology companies and partner organizations.
-
-### Monitor of Excel and Statistics — ESPM
-
-I support students in understanding Excel, statistics, data organization and quantitative analysis, adapting technical explanations to different levels of knowledge.
-
 ## Currently Exploring
 
 - Professional applications of Artificial Intelligence and AI agents.
