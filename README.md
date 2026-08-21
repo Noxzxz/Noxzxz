@@ -10,28 +10,6 @@ My experience comes from academic projects, technical development and extracurri
 
 I am currently deepening my knowledge of data analysis, machine learning, software development and competitive programming. My main interests are Data, AI and Backend Development, especially building practical, data-driven solutions and improving my problem-solving skills through software development.
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-Python · SQL · C · C++ · JavaScript · Java
-
-### 📊 Data & AI
-
-Data Analysis · Statistics · Data Preparation · Data Modeling · Machine Learning · PyTorch · Computer Vision
-
-### ⚙️ Backend & Development
-
-Software Development · Web Development · Mobile Development · Object-Oriented Programming · React.js · Node.js · Express
-
-### 🗄️Databases
-
-SQL · NoSQL · PostGreSQL Relational Databases
-
-### 🔧 Tools & Methods
-
-Microsoft Excel · Tableau · Tableau Prep Builder · Git · GitHub · Figma · Agile · Scrum · Kanban
-
 ## 🚀 Featured Projects
 
 | Project | Description | Technologies |
