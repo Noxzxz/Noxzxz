@@ -1,6 +1,6 @@
 # Hello, I'm Ihan Nunes
 
-**Information Systems Student | Data & AI | Backend Development | Technology & Finance**
+**Information Systems Student | Data & AI | Backend Development | Technology**
 
 I am an Information Systems undergraduate at ESPM, focused on Data Science and Business, with a technical background in Informatics. I build and study technology solutions for practical problems in business and finance, working across data analysis, artificial intelligence and software development.
 
@@ -25,7 +25,6 @@ I am currently deepening my knowledge of data analysis, machine learning, softwa
 
 - Professional applications of Artificial Intelligence and AI agents.
 - Data Analysis, Machine Learning and technology applied to business.
-- Investments, portfolio management, market analysis and financial markets.
 - Projects connecting data, technology and decision-making.
 
 ## 📄 Publication
