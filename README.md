@@ -36,4 +36,4 @@ Published in the proceedings of SBGames: [read the paper](https://sol.sbc.org.br
 
 [LinkedIn](https://www.linkedin.com/in/ihan-nunes-aaa584316/) · [Email](mailto:ihann664@gmail.com)
 
-> Open to internship and early-career opportunities in **Backend Development, Data and Artificial Intelligence**, especially when applied to business and finance.
+> Open to internship and early-career opportunities in **Backend Development, Data and Artificial Intelligence**
